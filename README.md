@@ -1,3 +1,10 @@
-1. create config.json to parent directory
-2. run npm install --production --registry https://registry.npm.taobao.org
-3. run npm run dev
+
+
+1. #### create config.json to parent directory
+
+2. #### npm i
+
+3. #### npm install ykit -g
+
+4. #### npm run dev
+
